@@ -1,0 +1,2 @@
+# FCC-Product-Landing-Page
+This one definitely took the most work but I'm reltively happy with the results. I put more of an effort into optimizing it for mobile but I'll see what that actually looks like once I post in on github pages, if anything the zoom levels in the browser devtools were constantly changing and I hope that's supposed to happen otherwise I was editing them for differentely zoomed screen sizes. If anything I can fix it later if that's the case.  
