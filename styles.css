@@ -272,6 +272,10 @@ span {
         width: 70%;
     }
 
+    body {
+        max-width: 100%;
+    }
+
     #logo {
         width: 40%;
     }
@@ -375,7 +379,7 @@ span {
      }
 
      #hero {
-        margin-top: 140px;
+        margin-top: 160px;
         font-size: 20px;
         width: 100%;
         text-align: center;
@@ -439,7 +443,7 @@ span {
      }
 }
 
-@media only screen and (max-width: 400px) and (max-height: 900px) and (min-width: 380px) and (min-height: 840px) {
+@media only screen and (max-width: 449px) and (max-height: 900px) and (min-width: 380px) and (min-height: 840px) {
     header {
         display: flex;
         flex-direction: column;
@@ -516,7 +520,7 @@ span {
     }
 }
 
-@media only screen and (max-width: 400px) and (max-height: 900px) and (min-width: 350px) and (min-height: 730px) {
+@media only screen and (max-width: 449px) and (max-height: 916px) and (min-width: 360px) and (min-height: 740px) {
     header {
         display: flex;
         flex-direction: column;
@@ -535,7 +539,7 @@ span {
     }
 
     #hero {
-        margin-top: 110px;
+        margin-top: 130px;
         text-align: center;
         font-size: 18px;
     }
